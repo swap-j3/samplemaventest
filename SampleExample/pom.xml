@@ -6,7 +6,6 @@
 	<packaging>jar</packaging>
 	<name>SampleExample</name>
 	<version>1.0.0</version>
-//commented
 
 	<dependencies>
 		<dependency>
